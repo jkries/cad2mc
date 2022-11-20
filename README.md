@@ -1,5 +1,5 @@
 # cad2mc
-## Import 3d models into MineCraft with full color support
+## Import 3d models into MineCraft Education Edition with full color support
 ![CAD 2 MC Example Image](https://github.com/jkries/cad2mc/blob/main/CAD2MC_Graphic1.jpg)
 
 ## How to use cad2mc:
