@@ -9,7 +9,7 @@
 3. Run the **cad2mc.exe** file and follow the prompts
 4. Open MineCraft Education Edition and paste the clipboard into the MakeCode editor as Python code
 5. Hit the green play button and return to the world
-6. Type **build now** into the chat and watch your model build block by block in the world!
+6. Type **buildnow** into the chat and watch your model build block by block in the world!
 
 ## Need help?
 If you have questions or want to share what you've made, please find me on YouTube or Twitter:
