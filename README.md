@@ -11,10 +11,10 @@
 5. Hit the green play button and return to the world
 6. Type **build now** into the chat and watch your model build block by block in the world!
 
-##Contacting me:
-If you have questions, please find me on YouTube or Twitter:
-Youtube Channel: https://www.youtube.com/@CoderJK
-Twitter: https://twitter.com/jasonkries
+## Need help?
+If you have questions or want to share what you've made, please find me on YouTube or Twitter:
+### Youtube Channel: https://www.youtube.com/@CoderJK
+### Twitter: https://twitter.com/jasonkries
 
 This project is a wrapper for the amazing obj2voxel command line utility also available on github: https://github.com/Eisenwave/obj2voxel
 If you want more options and don't mind command line, I suggest taking a look!
