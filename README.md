@@ -3,6 +3,7 @@
 ![CAD 2 MC Example Image](https://github.com/jkries/cad2mc/blob/main/CAD2MC_Graphic1.jpg)
 
 ## How to use cad2mc:
+I made a tutorial video that shows you exactly how to use this tool: https://youtu.be/EUO-GYvIjhg
 
 1. Download the **cad2mc.exe** file and the **obj2voxel-v1.3.4.exe** files into a folder on your machine.
 2. Save a 3d file into the same folder or use the example files provided: tinker.obj and obj.mtl
