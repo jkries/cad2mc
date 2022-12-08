@@ -1,5 +1,6 @@
 # cad2mc
 ## Import 3d models into Minecraft Education Edition with full color support
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F7GWLVN)
 ![CAD 2 MC Example Image](https://github.com/jkries/cad2mc/blob/main/CAD2MC_Graphic1.jpg)
 
 ## How to use cad2mc:
